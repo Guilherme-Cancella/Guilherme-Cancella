@@ -2,7 +2,7 @@
 
 My name is Guilherme and I'm a full-stack web developer from Belo Horizonte, Minas Gerais. I've always had a great passion and curiosity for technology, and choosing the world of software development came very naturally to me. My goal is to create amazing websites and apps that solve real-world problems while looking great on all devices.
 
-Studying - Business Administration and Software Engineering, both to be completed in 2024. Completing the FullStack Developer training course by OneBitCode.
+Studying - Business Administration, Software Engineering and the FullStack Developer course by Onebitcode.
 
 <a href="#">
 <img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" title="hello" width="335" height="243" align="right" alt="Hello, there!">
