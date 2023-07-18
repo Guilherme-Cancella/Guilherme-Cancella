@@ -26,8 +26,6 @@ Studying - Business Administration, Software Engineering and the FullStack Devel
 ![ Vite ]( https://img.shields.io/badge/-Vite-232323?style=flat&labelColor=646CFF&logo=vite&logoColor=ffe330 )
 ![ Vue.js ]( https://img.shields.io/badge/-Vue.js-232323?style=flat&labelColor=000000&logo=vue.js&logoColor=4FC08D )
 ![NextJS](https://img.shields.io/badge/-NextJS-232323?style=flat&labelColor=000000&logo=nextdotjs&logoColor=ffffff)
-![Node](https://img.shields.io/badge/-Node-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
-![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff)
 
 
  back-end
@@ -35,3 +33,4 @@ Studying - Business Administration, Software Engineering and the FullStack Devel
 ![ MongoDB ]( https://img.shields.io/badge/-MongoDB-47A248?style=flat&labelColor=47A248&logo=mongodb&logoColor=ffffff )
 ![ Sequelize ]( https://img.shields.io/badge/-Sequelize-232323?style=flat&labelColor=000000&logo=sequelize&logoColor=52B0E7 )
 ![ MySQL ]( https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff )
+![Node](https://img.shields.io/badge/-Node-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
