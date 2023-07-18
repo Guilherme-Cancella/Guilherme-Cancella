@@ -30,7 +30,8 @@ Studying - Business Administration, Software Engineering and the FullStack Devel
 ![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff)
 
 
- back-end:
+ back-end
+ 
 ![ MongoDB ]( https://img.shields.io/badge/-MongoDB-47A248?style=flat&labelColor=47A248&logo=mongodb&logoColor=ffffff )
 ![ Sequelize ]( https://img.shields.io/badge/-Sequelize-232323?style=flat&labelColor=000000&logo=sequelize&logoColor=52B0E7 )
 ![ MySQL ]( https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff )
