@@ -2,8 +2,6 @@
 
 My name is Guilherme and I'm a front-End web developer from Belo Horizonte, Minas Gerais. I've always had a great passion and curiosity for technology, and choosing the world of software development came very naturally to me. My goal is to create amazing websites and apps that solve real-world problems while looking great on all devices.
 
-Studying - Business Administration, Software Engineering and the Front-End Developer course by Onebitcode.
-
 
 
 
